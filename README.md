@@ -6,7 +6,7 @@ The project demonstrates modern React development practices, centralized state m
 
 ## Live Demo
 
-- **Live Application:** Add your Vercel URL here
+- **Live Application:** https://redux-mini-shop.vercel.app/
 - **GitHub Repository:** https://github.com/salamar-ss/redux-mini-shop.git
 
 ## Features
